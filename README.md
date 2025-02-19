@@ -1,6 +1,7 @@
 # Python-to-Assembly Transpiler  
 
 ![Build Status](https://github.com/MatchingSocks/py2asm/actions/workflows/tests.yml/badge.svg)
+![Lint Status](https://github.com/MatchingSocks/py2asm/actions/workflows/lint.yml/badge.svg)
 
 
 # py2asm
