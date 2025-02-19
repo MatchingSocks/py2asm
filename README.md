@@ -5,8 +5,6 @@
 ![Format Status](https://github.com/MatchingSocks/py2asm/actions/workflows/format.yml/badge.svg)
 
 
-![Snakes Assemble!](images/snakes.webp)
-
 
 # py2asm
 An overly-ambitious project to write a Python to Assembly Language transpiler. Wish me luck.
