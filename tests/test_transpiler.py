@@ -1,4 +1,4 @@
-from ..src.transpiler import Transpiler
+from src.transpiler import Transpiler
 
 
 def test_basic_assignment():
