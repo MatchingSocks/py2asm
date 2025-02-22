@@ -8,3 +8,7 @@ exclude = '''
   | __pycache__
 )/
 '''
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+python_functions = ["test_*"]

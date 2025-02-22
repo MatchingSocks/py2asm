@@ -1,5 +1,5 @@
 import sys
-from src.transpiler import Transpiler
+from .src.transpiler import Transpiler
 
 
 def main():
